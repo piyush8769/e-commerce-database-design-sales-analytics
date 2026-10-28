@@ -98,10 +98,3 @@ ecommerce_data_warehouse_analytics/
 
 ---
 
-## 🎯 Key Interview Numbers to Quote
-
-- **Total Orders Analyzed:** 45,000 orders
-- **Total Line Items:** 74,000+ items
-- **Unique Customers:** 12,000 entities across 8 major cities
-- **Catalog Products:** 25 normalized SKUs across 5 categories
-- **Database Model:** Star Schema (2 Dimensions + 2 Facts) in MySQL 8.0
